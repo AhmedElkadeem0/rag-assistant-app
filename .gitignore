@@ -1,0 +1,17 @@
+# Python / Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment Variables
+.env
+
+# Vector Database (Recreated via notebook)
+backend/data/vector_store/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+*.log
